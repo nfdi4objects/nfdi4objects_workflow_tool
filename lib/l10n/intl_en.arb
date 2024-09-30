@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "enterInstitution": "Enter or edit information about your Institution:",
+  "enterResources": "Enter or edit Resources:",
+  "selectExperiment": "WHAT do you want to do?",
+  "enterCompounds": "Enter or edit Compounds or Substances:",
+  "enterTools": "Enter or edit Instrument or Tools:",
+  "enterReferences": "Enter or edit References (publications or samples):",
+  "enterPersonnel": "Enter or edit information about your Personnel:"
+}

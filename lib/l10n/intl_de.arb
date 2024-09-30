@@ -1,0 +1,10 @@
+{
+  "@@locale": "de",
+  "enterInstitution": "Informationen über Ihre Institution eingeben oder bearbeiten:",
+  "enterResources": "Ressourcen eingeben oder bearbeiten:",
+  "selectExperiment": "WAS wollen Sie tun?",
+  "enterCompounds": "Komponenten oder Wirkstoffen eingeben oder bearbeiten:",
+  "enterTools": "Instrument oder Tools eingeben oder bearbeiten:",
+  "enterReferences": "Referenzen (Veröffentlichungen oder Proben) eingeben oder bearbeiten:",
+  "enterPersonnel": "Informationen über Ihr Personal eingeben oder bearbeiten:"
+}
